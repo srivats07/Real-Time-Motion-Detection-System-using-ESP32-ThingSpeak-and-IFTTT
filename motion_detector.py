@@ -15,10 +15,8 @@ import json
 deviceState = False
 
 # Wifi Credentials
-wifi_ssid = 'POCO M2 Pro'
-wifi_password = '24681357'
-# wifi_ssid = 'NETGEAR73'
-# wifi_password = 'roundlake377'
+wifi_ssid = '<wifi_ssid>'
+wifi_password = '<wifi_password>'
 
 # Network Station interface
 sta_if = network.WLAN(network.STA_IF)
